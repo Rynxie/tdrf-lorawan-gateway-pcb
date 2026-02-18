@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "allwinner_v3s")(type "KiCad")(uri "${KIPRJMOD}/allwinner_v3s_1.pretty")(options "")(descr ""))
+)
