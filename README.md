@@ -43,7 +43,6 @@ The gateway runs a customized embedded Linux distribution generated using **Buil
 The software environment includes:
 
 - **Linux Kernel:** Customized for the Allwinner V3s hardware platform
-- **Buildroot:** Embedded Linux build system
 - **BusyBox:** Lightweight userspace utilities
 - **Semtech UDP Packet Forwarder:** Forwarding LoRa packets to a network server
 - **ChirpStack:** LoRaWAN Network Server integration
@@ -89,6 +88,8 @@ The software environment includes:
 Two final hardware prototypes were manufactured, assembled, and tested.
 
 The gateway was integrated into a LoRa-based low-power tracking system for critical cargo, providing a practical environment for evaluating the custom hardware and embedded Linux software.
+
+We reached up to **1 km** distance in a urban area and looking for ways to increase the range
 
 ## Repository Contents
 
