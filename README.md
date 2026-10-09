@@ -18,7 +18,7 @@ Two assembled and tested LoRaWAN gateway prototypes.
 
 This project focuses on designing and developing a standalone Linux-based LoRaWAN gateway, including both custom PCB hardware and embedded Linux firmware.
 
-The gateway was developed under the **TÜBİTAK 2209-A Undergraduate Research Projects Support Program** and subsequently integrated into the **LoRa-Based Low-Power Tracking System for Critical Cargo**, supported by the **TUSAŞ LIFT UP Graduation Project Support Program**.
+The gateway was developed under the **TÜBİTAK 2209-A Undergraduate Research Projects Support Program** and subsequently integrated into the **LoRa-Based Low-Power Tracking System for Critical Cargo**, supported by the **Turkish Aerospace Industries LIFT UP Graduation Project Support Program**.
 
 ## Hardware
 
